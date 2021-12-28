@@ -1,0 +1,30 @@
+.Hero-sec img{
+    width: 100%;
+}
+.Hero-sec{
+    width:100%;
+    margin-bottom: 50px;
+    
+}
+.intro-text p{
+    font-size: 60px;
+    color:#f38e3e;
+}
+.intro-text p span{
+    color:#b47620;
+
+}
+
+.counter h1{
+    color:#f38e3e;
+    
+}
+.counter h1 span{
+    font-size: 15px;
+}
+@media only screen and(max-width:993px) {
+
+    .intro-text p{
+        font-size: 30px;
+    }
+}
